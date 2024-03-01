@@ -1,0 +1,12 @@
+.playBtn {
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 30px;
+	background-color: rgba(255, 255, 255, 0.15);
+	border-radius: 1rem;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	padding: 0.5rem 2rem;
+	cursor: pointer;
+	box-shadow: 0 10px 25px -3px rgba(0, 0, 0, 0.1);
+}
